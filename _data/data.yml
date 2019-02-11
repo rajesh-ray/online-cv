@@ -31,9 +31,9 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
         
-          - Bullet point
-          - Bullet point
-          - Bullet point
+          - Designed the architecture and built backend application of Auction application for dealers. Tools Used: Python, Django, MySql
+          - Taken ownership of admin module and Truebil’s main site. Tools Used: PHP, CakePHP, Javascript, HTML, CSS
+          - Worked on the primary inspection app (Hybrid App) used by car inspectors. Tools Used: HTML, CSS, Javascript, Apache Cordova, PHP (Backend)
     role: "Software Developer"
     time: "Sep 2018 - Present"
   - 
@@ -45,8 +45,11 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
         
-          - Bullet point
-          - Bullet point
+          - Developed Fulfilment Api’s (REST Api),  one for checking whether IMEI is required in given order,  other forassociating IMEI’s provided by merchants to multiple orders.Tools Used: PHP, Phalcon Rest Framework.
+          - Developed platform for merchants to provide E-way Bill No.  for the constrained orders.  And passing this billno. to the carrier associated at the time of pickup intimation.Tools Used: PHP, KnockoutJs, JQuery, AJAX
+          - Developed a realtime cron to register new vendors warehouse or existing vendors with updated address,  atcarriers end. These carrier serves the pickup request, if the vendor associated with the order is registered at theirend. Successful vendors registered reporting done at our end.Tools Used: PHP, MySql, RabbitMQ
+          - Developed a cron scheduled at realtime to intimate Dotzot carrier for pickup of manifested orders.
+          - Developed a Claim panel to manually input fraud order, similar orders with storing it in designed database.
     role: "Software Engineer"
     time: "May 2017 - Aug 2018"
 footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>\n"
