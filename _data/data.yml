@@ -26,22 +26,19 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Coding
         link:
 
-      - item: Snowboarding
+      - item: Algorithms
         link:
 
-      - item: Cooking
+      - item: Typing Tests
         link:
 
 career-profile:
@@ -55,17 +52,17 @@ education:
     - degree: BTech in Information Technology
       university: IIIT Allahabad
       time: 2013 - 2017
-      details: CGPA : 8.52
+      details: CGPA - 8.52
 
     - degree: Class XII
       university: Modi Public School (Kota, Raj.)
       time: 2011 - 2012
-      details: Percentage Scored : 85.8
+      details: Percentage Scored - 85.8
 
     - degree: Class X
       university: B.K.Bajoria School (Shillong)
       time: 2009 - 2010
-      details: CGPA : 9
+      details: CGPA - 9
 
 experiences:
     - role: Software Developer
