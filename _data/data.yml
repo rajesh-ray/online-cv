@@ -25,11 +25,6 @@ experiences:
   - 
     company: "Truebil, Mumbai"
     details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
         
           - Designed the architecture and built backend application of Auction application for dealers. 
           Tools Used: Python, Django, MySql
@@ -38,15 +33,10 @@ experiences:
           - Worked on the primary inspection app (Hybrid App) used by car inspectors. 
           Tools Used: HTML, CSS, Javascript, Apache Cordova, PHP (Backend)
     role: "Software Developer"
-    time: "Sep 2018 - Present"
+    time: "Jul 2018 - Present"
   - 
     company: "ShopClues, Gurgaon"
-    details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+    details: | 
         
           - Developed Fulfilment Api’s (REST Api),  one for checking whether IMEI is required in given order,  other for associating IMEI’s provided by merchants to multiple orders.
           Tools Used: PHP, Phalcon Rest Framework.
@@ -57,51 +47,19 @@ experiences:
           - Developed a cron scheduled at realtime to intimate Dotzot carrier for pickup of manifested orders.
           - Developed a Claim panel to manually input fraud order, similar orders with storing it in designed database.
     role: "Software Engineer"
-    time: "May 2017 - Aug 2018"
-footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>\n"
+    time: "May 2017 - Jun 2018"
+footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Rajesh Ray</a>\n"
 projects: 
   assignments: 
     - 
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      title: Velocity
+      tagline: "Generated captions for test images using trained RNN, BRNN, LSTM models and compared with reference captionsto compute BLEU scores (accuracy) for all these trained models. Tools Used: Python, TensorFlow, matplotlib, pandas"
+      title: Image captioning using different neural network models.
     - 
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-      title: DevStudio
-    - 
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users & investors"
-      title: Tempo
-    - 
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      title: Atom
-    - 
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-      title: Delta
-  intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.\n"
+      tagline: "Developed an android application to choose the place of meeting, amongst the friends who wants to meet, along withthe type of place. The resulting place is nearby from all the friends and is notified to all the friends using GCM (GoogleCloud Messaging) push notifications. The Parse Cloud server is used in this project to store the user’s database. Tools Used: Android, Parse, Google Maps API, Google Places API"
+      title: Friends Meeting Android Application.
+  intro: "\n"
   title: Projects
-publications: 
-  intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-  papers: 
-    - 
-      authors: "Donald E. Knuth"
-      conference: "Addison-Wesley, 1968"
-      title: "The Art of Computer Programming"
-    - 
-      authors: "Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A."
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      title: "Genetic Programming III: Darwinian Invention & Problem Solving"
-    - 
-      authors: "Edgar T. Irons"
-      conference: "Comm. ACM 4 (1961), 51–55"
-      title: "A syntax directed compiler for Algol 60"
-  title: Publications
+
 sidebar: 
   about: true
   avatar: profile.png
@@ -121,7 +79,7 @@ sidebar:
       link: ~
     - 
       item: "Typing Tests"
-      link: ~
+      link: "https://10fastfingers.com/user/657618"
   languages: 
     - 
       idiom: English
@@ -140,20 +98,17 @@ skills:
   title: "Skills & Proficiency"
   toolset: 
     - 
-      level: 98%
+      level: 70%
       name: "Python & Django"
-    - 
-      level: 98%
-      name: "Javascript & jQuery"
-    - 
-      level: 98%
-      name: Angular
-    - 
-      level: 95%
-      name: "HTML5 & CSS"
-    - 
-      level: 85%
-      name: "Ruby on Rails"
+    -
+      level: 90%
+      name: "PHP"
     - 
       level: 60%
-      name: "Sketch & Photoshop"
+      name: "Javascript & jQuery"
+    - 
+      level: 50%
+      name: ReactJs
+    - 
+      level: 75%
+      name: "HTML5 & CSS"
